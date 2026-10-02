@@ -45,7 +45,7 @@ jupyter nbconvert --to notebook --execute --inplace tsa_workforce.ipynb   # anal
 ```
 
 ## Layout
-- `tsa_workforce.ipynb` — the analysis, start to finish; saves the charts to `figures/`: `central.png` (the three panels above) and `linkedin.png` (a portrait version of the headcount chart under the headline, sized for LinkedIn).
+- `tsa_workforce.ipynb` — the analysis, start to finish; saves the charts to `figures/`: `central.png` (the three panels above) and `linkedin.png` (a wide, LinkedIn-sized version of the headcount chart under a framed headline).
 - `assets/headline.png` — the news-headline screenshot used in the LinkedIn graphic (credit the publication when posting).
 - `src/tsa.py` — shared definitions: TSA = `HSBC`, frontline officers = pay plan `SV` + series `1802` + supervisory status "all other positions".
 - `src/build_file_map.py`, `src/extract.py`, `src/history.py`, `src/verify.py` — the personnel-data pipeline and the check against OPM's original files.
