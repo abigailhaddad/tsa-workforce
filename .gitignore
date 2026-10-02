@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints/
+.claude/settings.local.json
+__pycache__/
+*.pyc
+*.pdf
+*.docx
+# regenerable extracts (python src/extract.py)
+data/acc_tsa.parquet
+data/sep_tsa.parquet
+data/emp_tsa.parquet
+data/raw_cache/

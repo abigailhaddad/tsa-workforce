@@ -1,0 +1,355 @@
+
+Release Notes
+An official website of the United States government
+Here’s how you know
+Official websites use .gov
+A 
+.gov
+ website belongs to an official government organization
+                                                    in the United States.
+                                                Secure .gov websites use HTTPS
+                                                A 
+lock
+ ( 
+ ) or 
+https://
+ means you’ve safely connected to the .gov
+                                                website. Share sensitive information only on official, secure websites.
+Federal Workforce Data
+Federal Workforce Data
+Federal Workforce Data
+Federal Workforce Data
+Explore Data
+ANALYTICS
+Workforce Size & Composition
+Workforce Changes
+Compensation, Performance & Leave
+Federal Recruitment
+Demographics
+Location
+Labor Unions & Bargaining Units
+                            DATA TOOLS
+Table Builder
+Get Data
+                    GET DATA
+Data Downloads
+API Access   
+ Data Standards
+DATA STANDARDS
+EHRI Data Standards
+EHRI Data Validation Checks
+Personnel Office Identifiers (POI)
+Duty Stations
+Policy & Guidance
+REFERENCES
+Guide to Human Resources Reporting
+Data Release Policy
+Privacy Impact Assessment
+System of Record Notice
+TOOLS
+GPPA Navigator
+About FWD
+                            INFO & HELP
+Getting Started
+Release Notes
+Submit Request
+Give Feedback
+                            RESOURCES
+Data Sources
+Data Quality
+Release Notes
+Check monthly before downloading or using new datasets.
+Review changes to see if they impact your queries, reports, or dashboards.
+Note version dates when citing data in publications or analyses.
+Sort By
+Sort by: Newest first
+Release 1.15.0 | September 16, 2026
+Updated EHRI Data Standards, Duty Station, and Personnel Office Identifier data standards
+Agency/Subelement updates:
+Updated existing codes: DJ07, IN27 (reinstated).
+Special pay table updates:
+Added new codes: V31K, V31J, V31F, V31G, V31C, V31A, V2X1, V31B, V31D, V31E, V30U for the Department of Veterans Affairs.
+Personnel Office Identifier updates:
+Added new codes: 0104, 1028, 1133, 1134, 1135, 1136, 1137.
+Updated existing code: 1014.
+Legal authority code updates:
+Added new codes: BAK, BAL, BAM, BAN, ZB3, ZVJ.
+Updated existing codes: ZCC, ZCD.
+Decommissioned existing codes: L2M, L4M, L5M, L6M, L8M, LXM, YEJ.
+Current appointment authority updates:
+Added new codes: BAK, BAL, BAM, BAN, ZB3, ZVJ.
+Updated existing codes: ZCC, ZCD.
+Decommissioned existing codes: L2M, L4M, L5M, L6M, L8M, LXM, YEJ.
+Corrected bugs
+Fixed minor bugs and UI design issues for an improved user experience.
+Release 1.14.0 | September 2, 2026
+New datasets published
+June 2026 datasets were re-published from EHRI Status. June 2026 Status data now includes 77,743 missing DOW records. There are still approximately 6,211 missing records from the following components: AF1S, DD01, DD08, DD16, DD21, DD23, DD25, DD29, DD53, DD65, and DD68. Once these providers are able to submit, we will re-release the data to complete the Status data set. June 2026 Dynamics files reported by data provider DD07 continue to be missing from the release due to a change in data processing at the Department of War.
+July 2026 datasets were published from EHRI Status, Dynamics, and Payroll data feeds. July 2026 Dynamics files reported by data provider DD07 are missing from the release due to a change in data processing at the Department of War.
+USAJOBS current job announcements are updated as of August 30, 2026.
+No other significant data quality issues have been identified.
+Updated EHRI Data Standards, Duty Station, and Personnel Office Identifier data standards
+Agency/Subelement updates:
+Added new codes: DD89, DD90, LCCC.
+Updated existing code: IN26.
+Decommissioned code: IN27.
+Added special pay table types: V30V, V30W, V30X, V30Y, V30Z, V30S, V30T, V30O, V30P, V30Q, V30R, V30N, V30M, V30L, V2Z3, V30J, and V30K for the Department of Veterans Affairs.
+Duty station code updates:
+Added new codes: ZA5800000, ZA4000000, ZA7900000.
+Personnel Office Identifier updates:
+Added new code: 1068.
+Updated existing code: 4342.
+Updated legal authority code: UFM.
+Updated the GPPA Navigator
+Removed four Schedule Policy/Career rules and added remark code P07 to compliment current remark code P05. See 
+GPPA Update 111
+ for a full list of GPPA changes.
+Corrected bugs
+Fixed minor bugs and UI design issues for an improved user experience.
+Release 1.13.0 | August 5, 2026
+New datasets published
+June 2026 datasets were published from EHRI Status, Dynamics, and Payroll data feeds.
+USAJOBS current job announcements are updated as of July 29, 2026.
+The Status and Dynamics files reported by DD07/DD21 and DD35 are missing from the June 2026 release due to a change in data processing at the Department of War. This affects certain visuals and raw data outputs. Data will be updated once all files are received. There are approximately 83,000 missing records from the following components: AF3T, AF6D, ARXF, DD01, DD02, DD04, DD06, DD07, DD08, DD10, DD12, DD13, DD16, DD21, DD23, DD25, DD26, DD27, DD29, DD34, DD35, DD48, DD53, DD61, DD63, DD65, DD68, DD69, DD71, DD74, DD80, DD81, DD82. This issue is expected to persist through at least the July 2026 submission, currently scheduled for release on September 2, 2026. Once these providers are able to submit, we will re-release the data for the affected months.
+No other significant data quality issues have been identified.
+Updated columns on initial table view and drill-in table on Bargaining unit profiles visual
+Employee breakdowns by Professional, Non-professional, Blue collar, and White collar are now shown on the initial table view.
+OLMR number has moved to the drill-in table view.
+Updated EHRI Data Standards, Duty Station, and Personnel Office Identifier data standards
+Agency/Subelement code updates:
+Added new code:  DD88.
+Updated existing code: SM04.
+Added special pay table types: V30A, V30B, V30C, V30D, V30E, V30F, V30G, V30H, and V30I for the Department of Veterans Affairs.
+Duty station code updates:
+Added new codes: PL8160000, PL5700000, CA0976000, PL6500000, 391826085, 370771019, 363023081, 366681081, 320031003, 131993089, 131993151, 063009037, 063999037, 171301089, 121691115, 121691081, 365943085, 360287081, 090399110, 020000280.
+Updated codes: 090369110, PL2500000, 511020177.
+Personnel Office Identifier updates:
+Updated codes: 1087, 4342, 6000.
+Updated the GPPA Navigator
+Search improvements: a new "Exact match" toggle on Rule and Remarks search and highlighted match terms in the chapter/table details on hover.
+Added the Quick Sheet: Determining Creditable Service for Leave to Summary page support resources, plus a banner on every page linking to the GPPA PDF.
+Minor content corrections across GPPA rules, authorities, and remarks to ensure Navigator guidance matches the GPPA PDF.
+Corrected bugs
+Fixed minor bugs and UI design issues for an improved user experience.
+Release 1.12.0 | July 15, 2026
+Introduced Guide to Processing Personnel Actions (GPPA) Navigator, a searchable reference tool for federal HR personnel action coding
+GPPA Navigator is a new web-based tool available under Policy & Guidance > Tools that helps HR Specialists identify the correct codes for personnel actions without manually searching across the GPPA PDFs.
+Guidance reflected in the Navigator is current as of July 2026. This is the initial release.
+Rule search and filters
+Search GPPA tables by keyword across all chapters, or browse by chapter and table.
+Narrow results by Nature of Action Code (NOAC) or Legal Authority Code (LAC).
+Codes and remarks, and export
+View the NOAC, LAC, and notes for the selected rule.
+Browse and search required and additional remarks, filtered to the relevant chapter.
+Review a complete summary of selections and linked references and export to a Word document.
+Updated FWD Data Dictionary
+Includes definitions for duty station city, department, department code and pathways group.
+Duty Stations page loads US tab automatically upon page visit
+Users no longer need to apply a filter before seeing results and can view the full list of Duty Stations on each tab.
+Corrected bugs
+Fixed minor bugs and UI design issues for an improved user experience.
+Release 1.11.0 | July 1, 2026
+Added new API Access page, offering open programmatic access to Employment, Accessions, and Separations data — no authentication required
+Supports filtering by date, month, year, and version. Code examples in R, cURL and Python are included to help you get started more quickly.
+New datasets published
+May 2026 datasets were published from EHRI Status, Dynamics, and Payroll data feeds.
+USAJOBS current job announcements are updated as of June 25, 2026.
+No significant data quality issues have been identified.
+Updates to dropdown filters, field naming conventions, and layout on the Bargaining unit profiles visual
+Added Department and Agency dropdown filters; renamed "BUS"/"BUS code" fields and dropdown filter to "Bargaining unit code," renamed "Activity" fields to "Bargaining unit description," and retitled "Unit description" (detail drill-in) to "Recognition and coverage".
+Added a "Bargaining unit code" row to the detail card and swapped the Bargaining unit code/OLMR number column order in the list view.
+Removed CPDF code column and added the agency subelement code to Subagency name/column.
+Added column-level filtering to the Data Standards pages
+Users can now apply filters at the column level within the Data Standards pages, making it easier to locate precise Data Standards information.
+Updated EHRI Data Standards, Duty Station, and Personnel Office Identifier data standards
+Agency/Subelement code updates:
+Added new codes: AFNF.
+Updated existing codes: DJ15.
+Added special pay table types: V2ZU, V2ZW, V2ZX, V2ZY and V2ZZ for the Department of Veterans Affairs.
+Duty station code updates:
+Added new codes: 240175017, 061808049, 080253013, 080253001, 080253059, 360706047, 374639063, 301307113, 021600198, 020000275, 020000280, 020000158, 020000263, 020000266, GM8461000, 484134085.
+Updated code: 364170081.
+Decommissioned codes: 061808029, 021600201, 021600195.
+Personnel Office Identifier updates:
+Updated codes: 1141, 1821 and 1051 for the Department of Veterans Affairs and 9945, 9946, 9947, 9948, 9949, 9950, 9951, 9953, 9954, 9955 and 9956 for XCCE.
+Corrected bugs
+Fixed minor bugs and UI design issues for an improved user experience.
+Release 1.10.1 | June 22, 2026
+Corrected bugs
+Fixed minor bugs and UI design issues for an improved user experience.
+Release 1.10.0 | June 17, 2026
+Added Labor Unions & Bargaining unit page under Explore Data > Analytics in the navigation menu
+Explore data on federal employee union representation, bargaining unit status, and coverage across agencies.
+Added a new "Bargaining unit profiles" visual that surfaces OPM's Federal Labor Information System (FLIS) data alongside EHRI employee counts.
+Added visuals to gain insight into collective bargaining activities and time spent on union-related work.
+Made improvements to Source note layout
+Links within Source notes now open to external browser tab.
+Updated EHRI Data Standards, Schedule P/C Appointment Type Codes, Legal Authority Codes, and Remark Codes
+Appointment Type code updates:
+Added new codes: 67, 68.
+Legal Authority code updates:
+Added new codes: YEO, YEE, YED, YEJ, YEN, YET, YEU, YEV.
+Remark code updates:
+Added new codes: E60, E61, E62, E63, E64, E65, E66.
+Agency/Subelement code updates:
+Added new code: AFNF.
+Updated existing code: DJ15.
+Corrected bugs
+Fixed minor bugs and UI design issues for an improved user experience.
+Release 1.9.0 | June 3, 2026
+New datasets published
+April 2026 datasets were published from EHRI Status, Dynamics, and Payroll data feeds.
+USAJOBS current job announcements are updated as of May 27, 2026.
+April 2026 datasets are complete (no missing files).
+The recent increase in the percentage of employees covered by a bargaining unit is due to a recent court order requiring the Department of Veterans Affairs to restore a union contract for more than 300,000 employees.
+Added "Give feedback" button across all pages on site
+Feedback helps us improve the Federal Workforce Data site. This update removes barriers to sharing input, making it quicker and more convenient to tell us what's working and what could be better.
+Added default "All" option to EHRI Data Validation Checks page
+The table now defaults to displaying all EHRI Data Validation Checks across Data file types, giving users a complete view without needing to filter first.
+Added Duty station country to Table Builder filters
+This new filter option gives users greater flexibility to explore workforce distribution across both U.S. and international duty stations.
+Updated EHRI Data Standards, Duty Station, and Personnel Office Identifier data standards
+Agency/Subelement code updates:
+Added new codes: XCCE.
+Updated existing codes: SM04.
+Updated legal authority code: MAH.
+Added occupational series: 0243.
+Added special pay table types: V2ZN, V2ZO, V2ZP, V2ZQ, V2XS, V2ZR, V2XW, V2ZT for the Department of Veterans Affairs.
+Duty station code updates:
+Added 200580103, 260208125.
+Personnel Office Identifier updates:
+Added new codes:
+9719, 9720, 9721, 9722, 9723, 9724, 9725, 9726, 9727, 9728, 9729, 9730, 9731, 9732, 9733, 9737, 9740, 9741, 9742, 9743, 9744, 9745, 9747, 9748, 9749, 9750, 9751, 9752, 9753, 9755, 9756, 9757, 9758, 9759, 9761, 9762, 9763, 9764, 9765, 9773, 9774, 9775, 9776, 9778, 9779, 9780, 9781, 9782, 9783, 9784, 9785, 9786, 9787, 9789, 9790, 9791, 9792, 9793, 9794, 9795, 9796, 9797, 9798, 9799, 9801, 9802, 9803, 9804, 9805, 9806, 9807, 9808, 9809, 9810, 9811, 9813, 9814, 9815, 9816, 9817, 9818, 9819, 9821, 9822 for Air Force NAF.
+4342 for IN08.
+2106 for ARW1 and ART2.
+4472 for DD35.
+9901, 9902, 9904, 9905, 9906, 9908, 9909, 9910, 9912, 9913, 9915, 9916, 9917, 9918, 9919, 9920, 9921, 9922, 9923, 9924, 9925, 9926, 9927, 9928, 8829, 9930, 9931, 9932, 9933, 9934, 9935, 9936, 9937, 9938, 9940, 9941, 9942, 9944, 9945, 9946, 9947, 9948, 9949, 9950, 9951, 9953, 9954, 9955, 9956, 9972 for XCCE.
+Corrected bugs
+Fixed minor bugs and UI design issues for an improved user experience.
+Release 1.8.1 | May 20, 2026
+Corrected bugs
+Fixed row alignment issue on Table Builder.
+Release 1.8.0 | May 20, 2026
+Active filter chips are now displayed on the Table Builder and all Explore Data and Data Quality pages
+As users make filter selections on all visuals within FWD and in Step 4 of the Table Builder, applied filters will appear as filter chips in the active filter area, giving a clear view of what's been selected and making it easy to remove filters without needing to reopen each dropdown.
+On Steps 2 and 3 of the Table Builder, a filter list will display as Timeframe and Table Elements are added from the dropdowns.
+The "Select all" option has been removed from filter dropdowns site wide. Filters must now be selected individually.
+Updated EHRI Data Standards
+Adjusted data elements and names to align with EHRI data feeds and existing guidance.
+Agency/Subelement code updates:
+Updated existing codes: DD16.
+Personnel Office Identifier updates:
+Updated existing code: 4199.
+Corrected bugs
+Fixed minor bugs and UI design issues for an improved user experience.
+Rows per page:
+10
+1-10 of 19
+Analytics
+Workforce Size & Composition
+Workforce Changes
+Compensation, Performance & Leave
+Federal Recruitment
+Demographics
+Location
+Labor Unions & Bargaining Units
+Data Tools
+Table Builder
+Get Data
+Data Downloads
+API Access   
+Data Standards
+EHRI Data Standards
+EHRI Data Validation Checks
+Personnel Office Identifiers (POI)
+Duty Stations
+References
+Guide to Human Resources Reporting
+Data Release Policy
+Privacy Impact Assessment
+System of Record Notice
+Tools
+GPPA Navigator
+Info & Help
+Getting Started
+Release Notes
+Submit Request
+Give Feedback
+Resources
+Data Sources
+Data Quality
+Analytics
+Workforce Size & Composition
+Workforce Changes
+Compensation, Performance & Leave
+Federal Recruitment
+Demographics
+Location
+Labor Unions & Bargaining Units
+References
+Guide to Human Resources Reporting
+Data Release Policy
+Privacy Impact Assessment
+System of Record Notice
+Tools
+GPPA Navigator
+Data Tools
+Table Builder
+Get Data
+Data Downloads
+API Access   
+Data Standards
+EHRI Data Standards
+EHRI Data Validation Checks
+Personnel Office Identifiers (POI)
+Duty Stations
+Info & Help
+Getting Started
+Release Notes
+Submit Request
+Give Feedback
+Resources
+Data Sources
+Data Quality
+Analytics
+Workforce Size & Composition
+Workforce Changes
+Compensation, Performance & Leave
+Federal Recruitment
+Demographics
+Location
+Labor Unions & Bargaining Units
+Data Tools
+Table Builder
+Get Data
+Data Downloads
+API Access   
+Data Standards
+EHRI Data Standards
+EHRI Data Validation Checks
+Personnel Office Identifiers (POI)
+Duty Stations
+References
+Guide to Human Resources Reporting
+Data Release Policy
+Privacy Impact Assessment
+System of Record Notice
+Tools
+GPPA Navigator
+Info & Help
+Getting Started
+Release Notes
+Submit Request
+Give Feedback
+Resources
+Data Sources
+Data Quality
+Release 1.15.0 | Site last updated September 16, 2026
+© 2026 Office of Personnel Management
+Give feedback
+	An unhandled error has occurred.
+Reload
+🗙
+Reconnecting to the server…
+				Connection lost.
+Reload
